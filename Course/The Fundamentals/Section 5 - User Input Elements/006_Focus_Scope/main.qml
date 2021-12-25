@@ -9,11 +9,12 @@ Window {
 
     Column {
         MButton{
-           focus: true
+            color:"blue"
         }
 
         MButton{
 
+            focus: true
             color: "green"
         }
     }
