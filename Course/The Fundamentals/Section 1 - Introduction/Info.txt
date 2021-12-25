@@ -1,0 +1,17 @@
+Instructor : Daniel Gakwaya
+
+Topics : 
+
+The basics of working with the QML language
+Working with Qt Quick basic elements and building your own in QML
+Signals and slots in QML
+Working with input elements
+Working with Javascript in QML
+Positioning elements in QML
+Qt Quick Controls 2 framework
+Working with Dialogs in QML
+Models,Views and Delegates
+Transforms,Transitions and Animations
+Networking : Fetching HTTP Data and JSON(REST) APIs
+Settings and Local Storage
+
