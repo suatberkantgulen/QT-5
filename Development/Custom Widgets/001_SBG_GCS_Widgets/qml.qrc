@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Style/SBG_Font.qml</file>
+        <file>Style/SBG_Theme.qml</file>
+        <file>Widget/SBG_Label.qml</file>
+        <file>Widget/SBG_ColoredImage.qml</file>
+        <file>Resource/Dasal.png</file>
+    </qresource>
+</RCC>
