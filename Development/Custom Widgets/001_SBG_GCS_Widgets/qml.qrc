@@ -6,5 +6,6 @@
         <file>Widget/SBG_Label.qml</file>
         <file>Widget/SBG_ColoredImage.qml</file>
         <file>Resource/Dasal.png</file>
+        <file>Widget/SBG_Spinner.qml</file>
     </qresource>
 </RCC>

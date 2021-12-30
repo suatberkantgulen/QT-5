@@ -39,4 +39,10 @@ Window {
         _visible:       true
     }
 
+    SBG_Spinner {
+        x : 200
+        y : 100
+    }
+
+
 }
